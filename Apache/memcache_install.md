@@ -1,6 +1,6 @@
 #  Memcache x64集成  #
 
-> 由于开发环境为php5,因此memcache扩展采用php5.5的版本
+> 由于开发环境为php5,因此memcache扩展采用php5.5的版本，如果为其他php版本，请 [**在此处**](http://pecl.php.net/package/memcache/3.0.8/windows) 选择对应版本的dll扩展文件
 
 ----------
 
